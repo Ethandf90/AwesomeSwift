@@ -1,4 +1,4 @@
-# iOSSwfitLearningNote
+# iOS Swfit Learning Note
 
 Let me be the porter of knowledge, and share the good stuff I accumulated during the Swift time. And please feel free to make PR if you have suggestion or more exciting tricks.
 
