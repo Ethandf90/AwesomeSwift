@@ -1,6 +1,6 @@
 # iOSSwfitLearningNote
 
-Let me be the porter of knowledge, and share the good stuff I accumulated during the Swift time. And please feel free to make PR if you have suggestion or more exciting tricks.
+Let me be the porter of knowledge, and share the good stuff I accumulated during the Swift time. And please feel free to make PR if you have suggestion or more exciting tricks. Constantly updating....
 
 ### Readings
 - Swift 4 new changes!! : http://www.appcoda.com/swift4-changes/
@@ -11,6 +11,8 @@ Let me be the porter of knowledge, and share the good stuff I accumulated during
 - Make full use of Filter/map/reduce...: https://useyourloaf.com/blog/swift-guide-to-map-filter-reduce/
 - Concurrency with swift: https://priteshrnandgaonkar.github.io/concurrency-with-swift-3/
 - Swift build time optimizations: https://medium.com/@RobertGummesson/regarding-swift-build-time-optimizations-fc92cdd91e31
+- Method Swizzling: http://nshipster.com/method-swizzling/
+- Good article, Swift tricks: https://savvyapps.com/blog/swift-tips-for-developers
 
 ### code modules
 - an elegant way to handle deep link: https://github.com/ijoshsmith/swift-deep-linking 
